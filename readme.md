@@ -1,4 +1,4 @@
-# ProjectBaseX
+# EasyApiRest
 Será um projeto base para iniciar projetos rápido e pequenos.
 
 
